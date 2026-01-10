@@ -28,7 +28,9 @@ Atualmente, direciono meus estudos para **Python** e **Análise de Dados**, com 
 - Boas práticas de desenvolvimento e estruturação de código  
 
 ## 📬 Contato
-- LinkedIn: *https://www.linkedin.com/Leticiagualberto*  
+- www.linkedin.com/in/
+leticiagualberto
+*  
 
 <!--
 **LeGualberto/LeGualberto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

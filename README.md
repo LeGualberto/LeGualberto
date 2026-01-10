@@ -28,8 +28,7 @@ Atualmente, direciono meus estudos para **Python** e **Análise de Dados**, com 
 - Boas práticas de desenvolvimento e estruturação de código  
 
 ## 📬 Contato
-- www.linkedin.com/in/
-leticiagualberto
+- www.linkedin.com/in/leticiagualberto
 *  
 
 <!--

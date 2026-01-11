@@ -4,6 +4,13 @@
 Atuo como **Analista de Suporte JR**, com experiência em **sustentação de sistemas**, garantindo continuidade operacional, estabilidade e atendimento eficiente aos usuários.  
 Atualmente, direciono meus estudos para **Python** e **Análise de Dados**, com ênfase em **lógica de programação**, **tratamento de dados** e fundamentos de **Data Analytics**, buscando evolução contínua e aprimoramento técnico.
 
+## 🎓 Formações
+- Análise e Desenvolvimento de sistemas - Unilus Jul 2024
+-Exame Oficial de Fundamentos de Scrum em Portugues pela Certiprof
+-Fundamentos de Engenharia de Dados pela DataScience Academy
+-Heineken Inteligência Artificial aplicada a Dados com Copilot pela DIO
+
+
 ## 💼 Competências e conhecimentos
 - ITIL 4  
 - Sustentação e suporte a sistemas  
